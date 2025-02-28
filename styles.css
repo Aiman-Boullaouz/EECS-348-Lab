@@ -1,0 +1,29 @@
+.page1 {
+    background-color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.flex-containter {
+    display: flex;
+    flex-direction: row;
+}
+
+.centered {
+    justify-content: center;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    padding: 5px;
+    font-size: medium;
+}
+
+#linkedin {
+    padding-left: 50;
+}
+
+#target {
+    padding: 10px;
+    outline: 0vmax solid black;
+}
